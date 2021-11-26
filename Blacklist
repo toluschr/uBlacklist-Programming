@@ -1,2 +1,5 @@
 # Translates stackoverflow results
 *://qastack.com.de/*
+
+# Alternative frontends to packages.ubuntu.com serve no purpose
+*://*.howtoinstall.*/*
