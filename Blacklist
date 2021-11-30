@@ -1,5 +1,6 @@
-# Translates stackoverflow results
+# Translates / reuploads stackoverflow results
 *://qastack.com.de/*
+*://newbedev.com/*
 
 # Alternative frontends to packages.ubuntu.com serve no purpose
 *://*.howtoinstall.*/*
