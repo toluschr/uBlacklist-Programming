@@ -5,3 +5,6 @@
 
 # Alternative frontends to packages.ubuntu.com serve no purpose
 *://*.howtoinstall.*/*
+
+# Low quality
+*://gateoverflow.in/*
